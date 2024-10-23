@@ -1,0 +1,15 @@
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/bin/Debug/net8.0/2.Processamento de dados e casting
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/bin/Debug/net8.0/2.Processamento de dados e casting.deps.json
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/bin/Debug/net8.0/2.Processamento de dados e casting.runtimeconfig.json
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/bin/Debug/net8.0/2.Processamento de dados e casting.dll
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/bin/Debug/net8.0/2.Processamento de dados e casting.pdb
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/obj/Debug/net8.0/2.Processamento de dados e casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/obj/Debug/net8.0/2.Processamento de dados e casting.AssemblyInfoInputs.cache
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/obj/Debug/net8.0/2.Processamento de dados e casting.AssemblyInfo.cs
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/obj/Debug/net8.0/2.Processamento de dados e casting.csproj.CoreCompileInputs.cache
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/obj/Debug/net8.0/2.Processamento de dados e casting.sourcelink.json
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/obj/Debug/net8.0/2.Processamento de dados e casting.dll
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/obj/Debug/net8.0/refint/2.Processamento de dados e casting.dll
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/obj/Debug/net8.0/2.Processamento de dados e casting.pdb
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/obj/Debug/net8.0/2.Processamento de dados e casting.genruntimeconfig.cache
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/2.Processamento de dados e casting/obj/Debug/net8.0/ref/2.Processamento de dados e casting.dll
