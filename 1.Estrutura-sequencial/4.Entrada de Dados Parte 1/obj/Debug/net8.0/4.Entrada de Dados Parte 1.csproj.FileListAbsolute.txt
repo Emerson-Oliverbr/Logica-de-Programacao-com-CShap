@@ -1,0 +1,15 @@
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/bin/Debug/net8.0/4.Entrada de Dados Parte 1
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/bin/Debug/net8.0/4.Entrada de Dados Parte 1.deps.json
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/bin/Debug/net8.0/4.Entrada de Dados Parte 1.runtimeconfig.json
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/bin/Debug/net8.0/4.Entrada de Dados Parte 1.dll
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/bin/Debug/net8.0/4.Entrada de Dados Parte 1.pdb
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/obj/Debug/net8.0/4.Entrada de Dados Parte 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/obj/Debug/net8.0/4.Entrada de Dados Parte 1.AssemblyInfoInputs.cache
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/obj/Debug/net8.0/4.Entrada de Dados Parte 1.AssemblyInfo.cs
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/obj/Debug/net8.0/4.Entrada de Dados Parte 1.csproj.CoreCompileInputs.cache
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/obj/Debug/net8.0/4.Entrada de Dados Parte 1.sourcelink.json
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/obj/Debug/net8.0/4.Entrada de Dados Parte 1.dll
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/obj/Debug/net8.0/refint/4.Entrada de Dados Parte 1.dll
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/obj/Debug/net8.0/4.Entrada de Dados Parte 1.pdb
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/obj/Debug/net8.0/4.Entrada de Dados Parte 1.genruntimeconfig.cache
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 1/obj/Debug/net8.0/ref/4.Entrada de Dados Parte 1.dll
