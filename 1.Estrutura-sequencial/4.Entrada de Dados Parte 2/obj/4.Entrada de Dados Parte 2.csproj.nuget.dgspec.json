@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/HelloWorld/HelloWorld.csproj": {}
+    "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 2/4.Entrada de Dados Parte 2.csproj": {}
   },
   "projects": {
-    "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/HelloWorld/HelloWorld.csproj": {
+    "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 2/4.Entrada de Dados Parte 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/HelloWorld/HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 2/4.Entrada de Dados Parte 2.csproj",
+        "projectName": "4.Entrada de Dados Parte 2",
+        "projectPath": "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 2/4.Entrada de Dados Parte 2.csproj",
         "packagesPath": "/home/emerson/.nuget/packages/",
-        "outputPath": "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/HelloWorld/obj/",
+        "outputPath": "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/4.Entrada de Dados Parte 2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/emerson/.nuget/NuGet/NuGet.Config"
