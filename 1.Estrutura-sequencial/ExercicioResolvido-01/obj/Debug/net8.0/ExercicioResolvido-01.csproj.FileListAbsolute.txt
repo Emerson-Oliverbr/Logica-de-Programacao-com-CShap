@@ -1,0 +1,15 @@
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/bin/Debug/net8.0/ExercicioResolvido-01
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/bin/Debug/net8.0/ExercicioResolvido-01.deps.json
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/bin/Debug/net8.0/ExercicioResolvido-01.runtimeconfig.json
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/bin/Debug/net8.0/ExercicioResolvido-01.dll
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/bin/Debug/net8.0/ExercicioResolvido-01.pdb
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/obj/Debug/net8.0/ExercicioResolvido-01.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/obj/Debug/net8.0/ExercicioResolvido-01.AssemblyInfoInputs.cache
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/obj/Debug/net8.0/ExercicioResolvido-01.AssemblyInfo.cs
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/obj/Debug/net8.0/ExercicioResolvido-01.csproj.CoreCompileInputs.cache
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/obj/Debug/net8.0/ExercicioResolvido-01.sourcelink.json
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/obj/Debug/net8.0/ExercicioResolvido-01.dll
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/obj/Debug/net8.0/refint/ExercicioResolvido-01.dll
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/obj/Debug/net8.0/ExercicioResolvido-01.pdb
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/obj/Debug/net8.0/ExercicioResolvido-01.genruntimeconfig.cache
+/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/obj/Debug/net8.0/ref/ExercicioResolvido-01.dll

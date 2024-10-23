@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/emerson/Projetos/Logica de programacao com CSharp/ExercicioResolvido-01/ExercicioResolvido-01.csproj": {}
+    "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/ExercicioResolvido-01.csproj": {}
   },
   "projects": {
-    "/home/emerson/Projetos/Logica de programacao com CSharp/ExercicioResolvido-01/ExercicioResolvido-01.csproj": {
+    "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/ExercicioResolvido-01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/emerson/Projetos/Logica de programacao com CSharp/ExercicioResolvido-01/ExercicioResolvido-01.csproj",
+        "projectUniqueName": "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/ExercicioResolvido-01.csproj",
         "projectName": "ExercicioResolvido-01",
-        "projectPath": "/home/emerson/Projetos/Logica de programacao com CSharp/ExercicioResolvido-01/ExercicioResolvido-01.csproj",
+        "projectPath": "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/ExercicioResolvido-01.csproj",
         "packagesPath": "/home/emerson/.nuget/packages/",
-        "outputPath": "/home/emerson/Projetos/Logica de programacao com CSharp/ExercicioResolvido-01/obj/",
+        "outputPath": "/home/emerson/Projetos/Logica de programacao com CSharp/1.Estrutura-sequencial/ExercicioResolvido-01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/emerson/.nuget/NuGet/NuGet.Config"
