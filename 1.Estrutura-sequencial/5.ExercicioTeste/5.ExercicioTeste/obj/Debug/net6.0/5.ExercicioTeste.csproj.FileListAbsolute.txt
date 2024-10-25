@@ -1,0 +1,15 @@
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\bin\Debug\net6.0\5.ExercicioTeste.exe
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\bin\Debug\net6.0\5.ExercicioTeste.deps.json
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\bin\Debug\net6.0\5.ExercicioTeste.runtimeconfig.json
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\bin\Debug\net6.0\5.ExercicioTeste.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\bin\Debug\net6.0\5.ExercicioTeste.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\obj\Debug\net6.0\5.ExercicioTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\obj\Debug\net6.0\5.ExercicioTeste.AssemblyInfoInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\obj\Debug\net6.0\5.ExercicioTeste.AssemblyInfo.cs
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\obj\Debug\net6.0\5.ExercicioTeste.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\obj\Debug\net6.0\5.ExercicioTeste.sourcelink.json
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\obj\Debug\net6.0\5.ExercicioTeste.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\obj\Debug\net6.0\refint\5.ExercicioTeste.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\obj\Debug\net6.0\5.ExercicioTeste.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\obj\Debug\net6.0\5.ExercicioTeste.genruntimeconfig.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\5.ExercicioTeste\5.ExercicioTeste\obj\Debug\net6.0\ref\5.ExercicioTeste.dll
