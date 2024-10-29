@@ -1,0 +1,15 @@
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\bin\Debug\net6.0\Bee1004.exe
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\bin\Debug\net6.0\Bee1004.deps.json
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\bin\Debug\net6.0\Bee1004.runtimeconfig.json
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\bin\Debug\net6.0\Bee1004.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\bin\Debug\net6.0\Bee1004.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\obj\Debug\net6.0\Bee1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\obj\Debug\net6.0\Bee1004.AssemblyInfoInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\obj\Debug\net6.0\Bee1004.AssemblyInfo.cs
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\obj\Debug\net6.0\Bee1004.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\obj\Debug\net6.0\Bee1004.sourcelink.json
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\obj\Debug\net6.0\Bee1004.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\obj\Debug\net6.0\refint\Bee1004.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\obj\Debug\net6.0\Bee1004.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\obj\Debug\net6.0\Bee1004.genruntimeconfig.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\Bee1004\Bee1004\obj\Debug\net6.0\ref\Bee1004.dll
