@@ -1,0 +1,15 @@
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\bin\Debug\net8.0\ExercicioResolvido-02.exe
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\bin\Debug\net8.0\ExercicioResolvido-02.deps.json
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\bin\Debug\net8.0\ExercicioResolvido-02.runtimeconfig.json
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\bin\Debug\net8.0\ExercicioResolvido-02.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\bin\Debug\net8.0\ExercicioResolvido-02.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\obj\Debug\net8.0\ExercicioResolvido-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\obj\Debug\net8.0\ExercicioResolvido-02.AssemblyInfoInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\obj\Debug\net8.0\ExercicioResolvido-02.AssemblyInfo.cs
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\obj\Debug\net8.0\ExercicioResolvido-02.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\obj\Debug\net8.0\ExercicioResolvido-02.sourcelink.json
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\obj\Debug\net8.0\ExercicioResolvido-02.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\obj\Debug\net8.0\refint\ExercicioResolvido-02.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\obj\Debug\net8.0\ExercicioResolvido-02.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\obj\Debug\net8.0\ExercicioResolvido-02.genruntimeconfig.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\1.Estrutura-sequencial\ExercicioResolvido-02\ExercicioResolvido-02\obj\Debug\net8.0\ref\ExercicioResolvido-02.dll

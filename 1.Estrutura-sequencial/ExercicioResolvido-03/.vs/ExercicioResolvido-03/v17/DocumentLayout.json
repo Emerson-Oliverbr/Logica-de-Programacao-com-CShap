@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Logica-de-Programacao-com-CShap\\1.Estrutura-sequencial\\ExercicioResolvido-03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F5CA4-D355-4936-94BC-E2E628477B1B}|ExercicioResolvido-03\\ExercicioResolvido-03.csproj|c:\\projetos\\logica-de-programacao-com-cshap\\1.estrutura-sequencial\\exercicioresolvido-03\\exercicioresolvido-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9F5CA4-D355-4936-94BC-E2E628477B1B}|ExercicioResolvido-03\\ExercicioResolvido-03.csproj|solutionrelative:exercicioresolvido-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Logica-de-Programacao-com-CShap\\1.Estrutura-sequencial\\ExercicioResolvido-03\\ExercicioResolvido-03\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioResolvido-03\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Logica-de-Programacao-com-CShap\\1.Estrutura-sequencial\\ExercicioResolvido-03\\ExercicioResolvido-03\\Program.cs",
+              "RelativeToolTip": "ExercicioResolvido-03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:16:26.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
