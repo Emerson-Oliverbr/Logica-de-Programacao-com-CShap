@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Logica-de-Programacao-com-CShap\\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\\Bee1019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CDD488-2F6E-4C5C-94C0-66710F76ACAD}|Bee1019\\Bee1019.csproj|c:\\projetos\\logica-de-programacao-com-cshap\\2.exercicios-estrutura-sequencial-plataforma-beecrowd\\bee1019\\bee1019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CDD488-2F6E-4C5C-94C0-66710F76ACAD}|Bee1019\\Bee1019.csproj|solutionrelative:bee1019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Logica-de-Programacao-com-CShap\\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\\Bee1019\\Bee1019\\Program.cs",
+              "RelativeDocumentMoniker": "Bee1019\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Logica-de-Programacao-com-CShap\\2.Exercicios-Estrutura-Sequencial-Plataforma-Beecrowd\\Bee1019\\Bee1019\\Program.cs",
+              "RelativeToolTip": "Bee1019\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:20:22.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

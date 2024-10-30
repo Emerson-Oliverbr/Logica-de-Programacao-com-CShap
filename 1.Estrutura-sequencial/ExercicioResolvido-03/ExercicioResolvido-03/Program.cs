@@ -17,7 +17,7 @@ namespace MeuApp
 
             double idadeMedia = (idade1 + idade2) / 2.0;
 
-            Console.WriteLine($"A idade media de {nome1} e {nome2} é de {idadeMedia.ToString("F1",CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"A idade media de {nome1} e {nome2} é de {idadeMedia.ToString("F1",CultureInfo.InvariantCulture)} anos ");
 
         }
     }
