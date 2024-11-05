@@ -1,0 +1,15 @@
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\bin\Debug\net6.0\ExercicioExemplo2.exe
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\bin\Debug\net6.0\ExercicioExemplo2.deps.json
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\bin\Debug\net6.0\ExercicioExemplo2.runtimeconfig.json
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\bin\Debug\net6.0\ExercicioExemplo2.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\bin\Debug\net6.0\ExercicioExemplo2.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\obj\Debug\net6.0\ExercicioExemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\obj\Debug\net6.0\ExercicioExemplo2.AssemblyInfoInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\obj\Debug\net6.0\ExercicioExemplo2.AssemblyInfo.cs
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\obj\Debug\net6.0\ExercicioExemplo2.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\obj\Debug\net6.0\ExercicioExemplo2.sourcelink.json
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\obj\Debug\net6.0\ExercicioExemplo2.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\obj\Debug\net6.0\refint\ExercicioExemplo2.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\obj\Debug\net6.0\ExercicioExemplo2.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\obj\Debug\net6.0\ExercicioExemplo2.genruntimeconfig.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\ExercicioExemplo2\ExercicioExemplo2\obj\Debug\net6.0\ref\ExercicioExemplo2.dll

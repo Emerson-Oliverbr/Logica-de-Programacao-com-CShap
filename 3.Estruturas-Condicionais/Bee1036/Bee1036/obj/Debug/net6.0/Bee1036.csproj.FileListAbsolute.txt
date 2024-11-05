@@ -1,0 +1,15 @@
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\bin\Debug\net6.0\Bee1036.exe
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\bin\Debug\net6.0\Bee1036.deps.json
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\bin\Debug\net6.0\Bee1036.runtimeconfig.json
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\bin\Debug\net6.0\Bee1036.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\bin\Debug\net6.0\Bee1036.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\obj\Debug\net6.0\Bee1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\obj\Debug\net6.0\Bee1036.AssemblyInfoInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\obj\Debug\net6.0\Bee1036.AssemblyInfo.cs
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\obj\Debug\net6.0\Bee1036.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\obj\Debug\net6.0\Bee1036.sourcelink.json
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\obj\Debug\net6.0\Bee1036.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\obj\Debug\net6.0\refint\Bee1036.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\obj\Debug\net6.0\Bee1036.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\obj\Debug\net6.0\Bee1036.genruntimeconfig.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais\Bee1036\Bee1036\obj\Debug\net6.0\ref\Bee1036.dll
