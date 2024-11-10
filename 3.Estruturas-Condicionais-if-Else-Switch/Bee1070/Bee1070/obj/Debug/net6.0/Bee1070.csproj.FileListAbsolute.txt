@@ -1,0 +1,15 @@
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\bin\Debug\net6.0\Bee1070.exe
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\bin\Debug\net6.0\Bee1070.deps.json
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\bin\Debug\net6.0\Bee1070.runtimeconfig.json
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\bin\Debug\net6.0\Bee1070.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\bin\Debug\net6.0\Bee1070.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.AssemblyInfoInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.AssemblyInfo.cs
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.sourcelink.json
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\obj\Debug\net6.0\refint\Bee1070.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.genruntimeconfig.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1070\Bee1070\obj\Debug\net6.0\ref\Bee1070.dll

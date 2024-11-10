@@ -1,0 +1,15 @@
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\bin\Debug\net6.0\Bee1046.exe
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\bin\Debug\net6.0\Bee1046.deps.json
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\bin\Debug\net6.0\Bee1046.runtimeconfig.json
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\bin\Debug\net6.0\Bee1046.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\bin\Debug\net6.0\Bee1046.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\obj\Debug\net6.0\Bee1046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\obj\Debug\net6.0\Bee1046.AssemblyInfoInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\obj\Debug\net6.0\Bee1046.AssemblyInfo.cs
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\obj\Debug\net6.0\Bee1046.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\obj\Debug\net6.0\Bee1046.sourcelink.json
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\obj\Debug\net6.0\Bee1046.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\obj\Debug\net6.0\refint\Bee1046.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\obj\Debug\net6.0\Bee1046.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\obj\Debug\net6.0\Bee1046.genruntimeconfig.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\3.Estruturas-Condicionais-if-Else-Switch\Bee1046\Bee1046\obj\Debug\net6.0\ref\Bee1046.dll

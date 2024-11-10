@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Logica-de-Programacao-com-CShap\\3.Estruturas-Condicionais-if-Else-Switch\\Bee1044\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12B2BCE4-F2B2-4889-834A-455459B65EA3}|Bee1044\\Bee1044.csproj|c:\\projetos\\logica-de-programacao-com-cshap\\3.estruturas-condicionais-if-else-switch\\bee1044\\bee1044\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B2BCE4-F2B2-4889-834A-455459B65EA3}|Bee1044\\Bee1044.csproj|solutionrelative:bee1044\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Logica-de-Programacao-com-CShap\\3.Estruturas-Condicionais-if-Else-Switch\\Bee1044\\Bee1044\\Program.cs",
+              "RelativeDocumentMoniker": "Bee1044\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Logica-de-Programacao-com-CShap\\3.Estruturas-Condicionais-if-Else-Switch\\Bee1044\\Bee1044\\Program.cs",
+              "RelativeToolTip": "Bee1044\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:27:36.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
