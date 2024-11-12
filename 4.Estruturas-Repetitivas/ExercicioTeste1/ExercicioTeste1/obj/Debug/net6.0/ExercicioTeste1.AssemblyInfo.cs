@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioTeste1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36b442f196d5133d5b4c4e6376704ed07d19b284")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a039221fd35c183de408c07b0f46d78a6b91ecc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExercicioTeste1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExercicioTeste1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

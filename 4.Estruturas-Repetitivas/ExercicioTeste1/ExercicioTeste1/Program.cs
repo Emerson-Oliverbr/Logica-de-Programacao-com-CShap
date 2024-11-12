@@ -12,11 +12,11 @@ namespace ExercicioTeste1
             while (x != 0)
             {
                 soma = soma + x;
-                x = int.Parse(Console.ReadLine());               
+                x = int.Parse(Console.ReadLine());
             }
 
             Console.WriteLine(soma);
-            
+
         }
     }
 }
