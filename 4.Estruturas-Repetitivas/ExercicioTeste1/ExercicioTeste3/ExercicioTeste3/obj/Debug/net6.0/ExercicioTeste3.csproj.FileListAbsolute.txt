@@ -1,0 +1,15 @@
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\bin\Debug\net6.0\ExercicioTeste3.exe
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\bin\Debug\net6.0\ExercicioTeste3.deps.json
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\bin\Debug\net6.0\ExercicioTeste3.runtimeconfig.json
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\bin\Debug\net6.0\ExercicioTeste3.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\bin\Debug\net6.0\ExercicioTeste3.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\obj\Debug\net6.0\ExercicioTeste3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\obj\Debug\net6.0\ExercicioTeste3.AssemblyInfoInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\obj\Debug\net6.0\ExercicioTeste3.AssemblyInfo.cs
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\obj\Debug\net6.0\ExercicioTeste3.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\obj\Debug\net6.0\ExercicioTeste3.sourcelink.json
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\obj\Debug\net6.0\ExercicioTeste3.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\obj\Debug\net6.0\refint\ExercicioTeste3.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\obj\Debug\net6.0\ExercicioTeste3.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\obj\Debug\net6.0\ExercicioTeste3.genruntimeconfig.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\ExercicioTeste1\ExercicioTeste3\ExercicioTeste3\obj\Debug\net6.0\ref\ExercicioTeste3.dll
