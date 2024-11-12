@@ -1,0 +1,15 @@
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\bin\Debug\net6.0\Bee1117.exe
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\bin\Debug\net6.0\Bee1117.deps.json
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\bin\Debug\net6.0\Bee1117.runtimeconfig.json
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\bin\Debug\net6.0\Bee1117.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\bin\Debug\net6.0\Bee1117.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.AssemblyInfoInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.AssemblyInfo.cs
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.sourcelink.json
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\obj\Debug\net6.0\refint\Bee1117.dll
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.pdb
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\obj\Debug\net6.0\Bee1117.genruntimeconfig.cache
+C:\Projetos\Logica-de-Programacao-com-CShap\4.Estruturas-Repetitivas\Bee1117\Bee1117\obj\Debug\net6.0\ref\Bee1117.dll
